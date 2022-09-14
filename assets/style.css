@@ -1,20 +1,46 @@
+/* body */
 body {
     background: rgb(0, 0, 0);
-    color:rgb(104, 175, 185);
+    color: rgb(255, 255, 255);
+    font-family: "Open Sans";
   }
 
+  /* h1 */
 h1 {
  color:rgb(255, 255, 255);
+ font-family: "Cambria";
+   }
 
-}
-li {
-  display: inline;
-}
+  /* h2 */
+  h2 {
+    color: rgb(161, 226, 248);
+  }
 
+/* header text */
 .header-text {
     font-size: 25px;
 }
-
+/* main header */
 #main-header {
     color: rgb(255, 255, 255);
 }
+
+ /* unvisited link */
+ a:link {
+  color: rgb(161, 226, 248);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(161, 226, 248);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(241, 25, 234);
+}
+
+/* selected link */
+a:active {
+  color: rgb(161, 226, 248);
+} 
