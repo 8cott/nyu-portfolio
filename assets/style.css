@@ -1,0 +1,20 @@
+body {
+    background: rgb(0, 0, 0);
+    color:rgb(104, 175, 185);
+  }
+
+h1 {
+ color:rgb(255, 255, 255);
+
+}
+li {
+  display: inline;
+}
+
+.header-text {
+    font-size: 25px;
+}
+
+#main-header {
+    color: rgb(255, 255, 255);
+}
