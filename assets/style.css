@@ -5,6 +5,9 @@ body {
     font-family: "Open Sans";
     text-align: center;
     list-style-position: inside;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
   }
 
   /* h1 */
